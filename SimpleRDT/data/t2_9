@@ -1,0 +1,405 @@
+Starting FTP Client with
+Server     : 152.46.18.44
+Port       : 7735
+InputFile  : ./bin/send.bin
+WindowSize : 64
+MSS        : 900
+Iterations : 5
+Timeout    : 100
+Timeout, sequence number = 1
+Timeout, sequence number = 24
+Timeout, sequence number = 30
+Timeout, sequence number = 56
+Timeout, sequence number = 59
+Timeout, sequence number = 70
+Timeout, sequence number = 70
+Timeout, sequence number = 88
+Timeout, sequence number = 113
+Timeout, sequence number = 121
+Timeout, sequence number = 128
+Timeout, sequence number = 128
+Timeout, sequence number = 142
+Timeout, sequence number = 143
+Timeout, sequence number = 144
+Timeout, sequence number = 150
+Timeout, sequence number = 157
+Timeout, sequence number = 202
+Timeout, sequence number = 213
+Timeout, sequence number = 234
+Timeout, sequence number = 248
+Timeout, sequence number = 254
+Timeout, sequence number = 257
+Timeout, sequence number = 273
+Timeout, sequence number = 281
+Timeout, sequence number = 384
+Timeout, sequence number = 398
+Timeout, sequence number = 419
+Timeout, sequence number = 448
+Timeout, sequence number = 513
+Timeout, sequence number = 534
+Timeout, sequence number = 539
+Timeout, sequence number = 556
+Timeout, sequence number = 558
+Timeout, sequence number = 588
+Timeout, sequence number = 640
+Timeout, sequence number = 640
+Timeout, sequence number = 647
+Timeout, sequence number = 677
+Timeout, sequence number = 678
+Timeout, sequence number = 678
+Timeout, sequence number = 678
+Timeout, sequence number = 678
+Timeout, sequence number = 680
+Timeout, sequence number = 690
+Timeout, sequence number = 701
+Timeout, sequence number = 735
+Timeout, sequence number = 735
+Timeout, sequence number = 740
+Timeout, sequence number = 755
+Timeout, sequence number = 765
+Timeout, sequence number = 786
+Timeout, sequence number = 832
+Timeout, sequence number = 838
+Timeout, sequence number = 859
+Timeout, sequence number = 859
+Timeout, sequence number = 859
+Timeout, sequence number = 861
+Timeout, sequence number = 885
+Timeout, sequence number = 909
+Timeout, sequence number = 925
+Timeout, sequence number = 952
+Timeout, sequence number = 1063
+Timeout, sequence number = 1069
+Timeout, sequence number = 1069
+Timeout, sequence number = 1070
+Timeout, sequence number = 1071
+Timeout, sequence number = 1080
+Timeout, sequence number = 1083
+Timeout, sequence number = 1085
+Timeout, sequence number = 1093
+Timeout, sequence number = 1102
+Timeout, sequence number = 1128
+Timeout, sequence number = 1151
+
+File transmission completed
+
+===============================
+IterTime  : 10.107 secs
+Tx Rate   : 101.396 KB/s
+Pack Rate : 552.389 Packets/s
+PTx Rate  : 485.499 KB/s
+
+===============================
+Timeout, sequence number = 1
+Timeout, sequence number = 5
+Timeout, sequence number = 13
+Timeout, sequence number = 23
+Timeout, sequence number = 23
+Timeout, sequence number = 24
+Timeout, sequence number = 31
+Timeout, sequence number = 47
+Timeout, sequence number = 53
+Timeout, sequence number = 83
+Timeout, sequence number = 158
+Timeout, sequence number = 158
+Timeout, sequence number = 183
+Timeout, sequence number = 185
+Timeout, sequence number = 187
+Timeout, sequence number = 189
+Timeout, sequence number = 220
+Timeout, sequence number = 229
+Timeout, sequence number = 240
+Timeout, sequence number = 262
+Timeout, sequence number = 305
+Timeout, sequence number = 369
+Timeout, sequence number = 382
+Timeout, sequence number = 382
+Timeout, sequence number = 386
+Timeout, sequence number = 388
+Timeout, sequence number = 422
+Timeout, sequence number = 426
+Timeout, sequence number = 430
+Timeout, sequence number = 431
+Timeout, sequence number = 446
+Timeout, sequence number = 491
+Timeout, sequence number = 511
+Timeout, sequence number = 542
+Timeout, sequence number = 554
+Timeout, sequence number = 575
+Timeout, sequence number = 585
+Timeout, sequence number = 585
+Timeout, sequence number = 609
+Timeout, sequence number = 618
+Timeout, sequence number = 618
+Timeout, sequence number = 625
+Timeout, sequence number = 684
+Timeout, sequence number = 700
+Timeout, sequence number = 722
+Timeout, sequence number = 727
+Timeout, sequence number = 780
+Timeout, sequence number = 791
+Timeout, sequence number = 842
+Timeout, sequence number = 845
+Timeout, sequence number = 845
+Timeout, sequence number = 881
+Timeout, sequence number = 894
+Timeout, sequence number = 919
+Timeout, sequence number = 964
+Timeout, sequence number = 982
+Timeout, sequence number = 987
+Timeout, sequence number = 1026
+Timeout, sequence number = 1026
+Timeout, sequence number = 1033
+Timeout, sequence number = 1043
+Timeout, sequence number = 1063
+Timeout, sequence number = 1122
+Timeout, sequence number = 1144
+Timeout, sequence number = 1155
+
+File transmission completed
+
+===============================
+IterTime  : 6.655 secs
+Tx Rate   : 153.99 KB/s
+Pack Rate : 781.818 Packets/s
+PTx Rate  : 687.145 KB/s
+
+===============================
+Timeout, sequence number = 4
+Timeout, sequence number = 42
+Timeout, sequence number = 43
+Timeout, sequence number = 63
+Timeout, sequence number = 109
+Timeout, sequence number = 138
+Timeout, sequence number = 174
+Timeout, sequence number = 204
+Timeout, sequence number = 205
+Timeout, sequence number = 206
+Timeout, sequence number = 225
+Timeout, sequence number = 227
+Timeout, sequence number = 261
+Timeout, sequence number = 262
+Timeout, sequence number = 263
+Timeout, sequence number = 267
+Timeout, sequence number = 285
+Timeout, sequence number = 295
+Timeout, sequence number = 310
+Timeout, sequence number = 310
+Timeout, sequence number = 341
+Timeout, sequence number = 374
+Timeout, sequence number = 389
+Timeout, sequence number = 429
+Timeout, sequence number = 442
+Timeout, sequence number = 455
+Timeout, sequence number = 493
+Timeout, sequence number = 493
+Timeout, sequence number = 495
+Timeout, sequence number = 512
+Timeout, sequence number = 516
+Timeout, sequence number = 534
+Timeout, sequence number = 554
+Timeout, sequence number = 568
+Timeout, sequence number = 594
+Timeout, sequence number = 600
+Timeout, sequence number = 601
+Timeout, sequence number = 638
+Timeout, sequence number = 668
+Timeout, sequence number = 676
+Timeout, sequence number = 687
+Timeout, sequence number = 722
+Timeout, sequence number = 736
+Timeout, sequence number = 742
+Timeout, sequence number = 750
+Timeout, sequence number = 751
+Timeout, sequence number = 758
+Timeout, sequence number = 765
+Timeout, sequence number = 766
+Timeout, sequence number = 784
+Timeout, sequence number = 792
+Timeout, sequence number = 859
+Timeout, sequence number = 871
+Timeout, sequence number = 903
+Timeout, sequence number = 934
+Timeout, sequence number = 937
+Timeout, sequence number = 937
+Timeout, sequence number = 973
+Timeout, sequence number = 984
+Timeout, sequence number = 984
+Timeout, sequence number = 1083
+Timeout, sequence number = 1094
+Timeout, sequence number = 1107
+Timeout, sequence number = 1108
+Timeout, sequence number = 1111
+Timeout, sequence number = 1118
+Timeout, sequence number = 1126
+Timeout, sequence number = 1133
+Timeout, sequence number = 1145
+Timeout, sequence number = 1151
+
+File transmission completed
+
+===============================
+IterTime  : 7.187 secs
+Tx Rate   : 142.591 KB/s
+Pack Rate : 760.122 Packets/s
+PTx Rate  : 668.076 KB/s
+
+===============================
+Timeout, sequence number = 8
+Timeout, sequence number = 18
+Timeout, sequence number = 23
+Timeout, sequence number = 91
+Timeout, sequence number = 135
+Timeout, sequence number = 166
+Timeout, sequence number = 218
+Timeout, sequence number = 219
+Timeout, sequence number = 229
+Timeout, sequence number = 230
+Timeout, sequence number = 239
+Timeout, sequence number = 256
+Timeout, sequence number = 277
+Timeout, sequence number = 293
+Timeout, sequence number = 299
+Timeout, sequence number = 309
+Timeout, sequence number = 318
+Timeout, sequence number = 328
+Timeout, sequence number = 364
+Timeout, sequence number = 369
+Timeout, sequence number = 379
+Timeout, sequence number = 413
+Timeout, sequence number = 427
+Timeout, sequence number = 432
+Timeout, sequence number = 444
+Timeout, sequence number = 447
+Timeout, sequence number = 452
+Timeout, sequence number = 453
+Timeout, sequence number = 454
+Timeout, sequence number = 457
+Timeout, sequence number = 483
+Timeout, sequence number = 499
+Timeout, sequence number = 529
+Timeout, sequence number = 533
+Timeout, sequence number = 563
+Timeout, sequence number = 567
+Timeout, sequence number = 579
+Timeout, sequence number = 579
+Timeout, sequence number = 618
+Timeout, sequence number = 620
+Timeout, sequence number = 649
+Timeout, sequence number = 653
+Timeout, sequence number = 668
+Timeout, sequence number = 681
+Timeout, sequence number = 724
+Timeout, sequence number = 737
+Timeout, sequence number = 765
+Timeout, sequence number = 768
+Timeout, sequence number = 781
+Timeout, sequence number = 830
+Timeout, sequence number = 844
+Timeout, sequence number = 867
+Timeout, sequence number = 882
+Timeout, sequence number = 883
+Timeout, sequence number = 890
+Timeout, sequence number = 900
+Timeout, sequence number = 947
+Timeout, sequence number = 988
+Timeout, sequence number = 1035
+Timeout, sequence number = 1039
+Timeout, sequence number = 1064
+Timeout, sequence number = 1064
+Timeout, sequence number = 1064
+Timeout, sequence number = 1097
+Timeout, sequence number = 1102
+Timeout, sequence number = 1103
+Timeout, sequence number = 1114
+Timeout, sequence number = 1156
+
+File transmission completed
+
+===============================
+IterTime  : 8.241 secs
+Tx Rate   : 124.354 KB/s
+Pack Rate : 651.62 Packets/s
+PTx Rate  : 572.713 KB/s
+
+===============================
+Timeout, sequence number = 1
+Timeout, sequence number = 5
+Timeout, sequence number = 10
+Timeout, sequence number = 38
+Timeout, sequence number = 46
+Timeout, sequence number = 57
+Timeout, sequence number = 57
+Timeout, sequence number = 60
+Timeout, sequence number = 67
+Timeout, sequence number = 86
+Timeout, sequence number = 128
+Timeout, sequence number = 143
+Timeout, sequence number = 157
+Timeout, sequence number = 164
+Timeout, sequence number = 199
+Timeout, sequence number = 200
+Timeout, sequence number = 203
+Timeout, sequence number = 203
+Timeout, sequence number = 231
+Timeout, sequence number = 278
+Timeout, sequence number = 371
+Timeout, sequence number = 379
+Timeout, sequence number = 381
+Timeout, sequence number = 386
+Timeout, sequence number = 450
+Timeout, sequence number = 450
+Timeout, sequence number = 463
+Timeout, sequence number = 490
+Timeout, sequence number = 507
+Timeout, sequence number = 552
+Timeout, sequence number = 552
+Timeout, sequence number = 591
+Timeout, sequence number = 633
+Timeout, sequence number = 633
+Timeout, sequence number = 643
+Timeout, sequence number = 681
+Timeout, sequence number = 687
+Timeout, sequence number = 687
+Timeout, sequence number = 699
+Timeout, sequence number = 703
+Timeout, sequence number = 711
+Timeout, sequence number = 711
+Timeout, sequence number = 757
+Timeout, sequence number = 808
+Timeout, sequence number = 895
+Timeout, sequence number = 897
+Timeout, sequence number = 948
+Timeout, sequence number = 956
+Timeout, sequence number = 957
+Timeout, sequence number = 957
+Timeout, sequence number = 977
+Timeout, sequence number = 999
+Timeout, sequence number = 1016
+Timeout, sequence number = 1035
+Timeout, sequence number = 1035
+Timeout, sequence number = 1049
+Timeout, sequence number = 1062
+Timeout, sequence number = 1062
+Timeout, sequence number = 1062
+Timeout, sequence number = 1092
+Timeout, sequence number = 1128
+Timeout, sequence number = 1164
+
+File transmission completed
+
+===============================
+IterTime  : 7.698 secs
+Tx Rate   : 133.126 KB/s
+Pack Rate : 650.429 Packets/s
+PTx Rate  : 571.666 KB/s
+
+===============================
+
+===============================
+AvgTime   : 7.9776 secs
+Tx Rate   : 128.46 KB/s
+Pack Rate : 667.519 Packets/s
+PTx Rate  : 586.687 KB/s
+
+===============================

@@ -1,0 +1,191 @@
+Starting FTP Client with
+Server     : 152.46.18.44
+Port       : 7735
+InputFile  : ./bin/send.bin
+WindowSize : 64
+MSS        : 500
+Iterations : 5
+Timeout    : 100
+Timeout, sequence number = 11
+Timeout, sequence number = 105
+Timeout, sequence number = 112
+Timeout, sequence number = 119
+Timeout, sequence number = 146
+Timeout, sequence number = 548
+Timeout, sequence number = 645
+Timeout, sequence number = 796
+Timeout, sequence number = 995
+Timeout, sequence number = 1008
+Timeout, sequence number = 1029
+Timeout, sequence number = 1029
+Timeout, sequence number = 1091
+Timeout, sequence number = 1428
+Timeout, sequence number = 1505
+Timeout, sequence number = 1546
+Timeout, sequence number = 1676
+Timeout, sequence number = 1712
+Timeout, sequence number = 1838
+Timeout, sequence number = 1966
+Timeout, sequence number = 1967
+Timeout, sequence number = 2003
+Timeout, sequence number = 2009
+
+File transmission completed
+
+===============================
+IterTime  : 3.355 secs
+Tx Rate   : 305.34 KB/s
+Pack Rate : 1064.08 Packets/s
+PTx Rate  : 519.572 KB/s
+
+===============================
+Timeout, sequence number = 1
+Timeout, sequence number = 95
+Timeout, sequence number = 103
+Timeout, sequence number = 121
+Timeout, sequence number = 347
+Timeout, sequence number = 429
+Timeout, sequence number = 557
+Timeout, sequence number = 669
+Timeout, sequence number = 677
+Timeout, sequence number = 686
+Timeout, sequence number = 717
+Timeout, sequence number = 902
+Timeout, sequence number = 952
+Timeout, sequence number = 969
+Timeout, sequence number = 1043
+Timeout, sequence number = 1138
+Timeout, sequence number = 1224
+Timeout, sequence number = 1249
+Timeout, sequence number = 1380
+Timeout, sequence number = 1485
+Timeout, sequence number = 1542
+Timeout, sequence number = 1566
+Timeout, sequence number = 1620
+Timeout, sequence number = 1677
+Timeout, sequence number = 1758
+Timeout, sequence number = 1761
+Timeout, sequence number = 1774
+Timeout, sequence number = 1836
+Timeout, sequence number = 1867
+Timeout, sequence number = 1932
+Timeout, sequence number = 1960
+Timeout, sequence number = 1988
+
+File transmission completed
+
+===============================
+IterTime  : 3.935 secs
+Tx Rate   : 260.334 KB/s
+Pack Rate : 1053.62 Packets/s
+PTx Rate  : 514.464 KB/s
+
+===============================
+Timeout, sequence number = 5
+Timeout, sequence number = 109
+Timeout, sequence number = 275
+Timeout, sequence number = 292
+Timeout, sequence number = 317
+Timeout, sequence number = 435
+Timeout, sequence number = 437
+Timeout, sequence number = 470
+Timeout, sequence number = 490
+Timeout, sequence number = 506
+Timeout, sequence number = 541
+Timeout, sequence number = 616
+Timeout, sequence number = 618
+Timeout, sequence number = 626
+Timeout, sequence number = 714
+Timeout, sequence number = 822
+Timeout, sequence number = 1044
+Timeout, sequence number = 1090
+Timeout, sequence number = 1243
+Timeout, sequence number = 1278
+Timeout, sequence number = 1321
+Timeout, sequence number = 1474
+Timeout, sequence number = 1505
+Timeout, sequence number = 1519
+Timeout, sequence number = 1599
+Timeout, sequence number = 1603
+Timeout, sequence number = 1647
+Timeout, sequence number = 1673
+Timeout, sequence number = 1813
+Timeout, sequence number = 1847
+Timeout, sequence number = 1915
+
+File transmission completed
+
+===============================
+IterTime  : 3.874 secs
+Tx Rate   : 264.433 KB/s
+Pack Rate : 1053.69 Packets/s
+PTx Rate  : 514.498 KB/s
+
+===============================
+Timeout, sequence number = 2
+Timeout, sequence number = 187
+Timeout, sequence number = 251
+Timeout, sequence number = 359
+Timeout, sequence number = 467
+Timeout, sequence number = 483
+Timeout, sequence number = 531
+Timeout, sequence number = 676
+Timeout, sequence number = 730
+Timeout, sequence number = 823
+Timeout, sequence number = 850
+Timeout, sequence number = 913
+Timeout, sequence number = 1088
+Timeout, sequence number = 1096
+Timeout, sequence number = 1284
+Timeout, sequence number = 1507
+Timeout, sequence number = 1604
+Timeout, sequence number = 1651
+Timeout, sequence number = 1651
+Timeout, sequence number = 1887
+Timeout, sequence number = 1887
+
+File transmission completed
+
+===============================
+IterTime  : 3.047 secs
+Tx Rate   : 336.204 KB/s
+Pack Rate : 1124.06 Packets/s
+PTx Rate  : 548.856 KB/s
+
+===============================
+Timeout, sequence number = 9
+Timeout, sequence number = 64
+Timeout, sequence number = 165
+Timeout, sequence number = 166
+Timeout, sequence number = 302
+Timeout, sequence number = 324
+Timeout, sequence number = 655
+Timeout, sequence number = 1110
+Timeout, sequence number = 1206
+Timeout, sequence number = 1291
+Timeout, sequence number = 1346
+Timeout, sequence number = 1380
+Timeout, sequence number = 1383
+Timeout, sequence number = 1645
+Timeout, sequence number = 1697
+Timeout, sequence number = 1756
+Timeout, sequence number = 1898
+Timeout, sequence number = 1941
+
+File transmission completed
+
+===============================
+IterTime  : 2.678 secs
+Tx Rate   : 382.53 KB/s
+Pack Rate : 1213.59 Packets/s
+PTx Rate  : 592.574 KB/s
+
+===============================
+
+===============================
+AvgTime   : 3.3778 secs
+Tx Rate   : 303.278 KB/s
+Pack Rate : 1093.79 Packets/s
+PTx Rate  : 534.077 KB/s
+
+===============================
